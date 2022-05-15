@@ -5,11 +5,11 @@ spring:
     password: ENC(LVN5ZqzjmeqjYbvG/nnUWJWWQ89pCTb6)
     port: 6379
 # RabbitMQ 설정
-  rabbitmq:
-    host: 127.0.0.1
-    port: 5672
-    username: guest
-    password: guest
+#  rabbitmq:
+#    host: 127.0.0.1
+#    port: 5672
+#    username: guest
+#    password: guest
 
 jw:
   key: bk
