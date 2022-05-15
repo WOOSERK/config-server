@@ -1,5 +1,12 @@
+spring:
 # redis 설정
-redis:
+  redis:
     host: ENC(yha6a9F8LiwHb6JXePz6nZmlX8CH1sOYb4dIpyVAZjZLFJEBtXpm0vj36Jf6icBCBL6try2afbp/MqeFOd1UWQ==)
     password: ENC(wnaFaxnI5HNitC+hmbvdJ51kAuc7D6i4)
     port: 6379
+# RabbitMQ 설정
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
