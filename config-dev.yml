@@ -1,1 +1,5 @@
-
+# redis 설정
+redis:
+    host: ENC(yha6a9F8LiwHb6JXePz6nZmlX8CH1sOYb4dIpyVAZjZLFJEBtXpm0vj36Jf6icBCBL6try2afbp/MqeFOd1UWQ==)
+    password: ENC(wnaFaxnI5HNitC+hmbvdJ51kAuc7D6i4)
+    port: 6379
